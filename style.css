@@ -96,7 +96,7 @@ nav {
 	background-position: center;
 	padding: 100px;
 	text-align: center;
-	color: #fff;
+	color: #030b4b;
 }
 
 .hero h1 {
@@ -183,4 +183,24 @@ footer {
 		display: block;
 		height: 2
   }
+
+
+/* Estilos caja de posts */
+
+
+
+.image-container {
+    
+	text-align: center;
+}
+
+.image-container img {
+	display: flex;
+	margin-left: 500cm;
+	margin-right: 2000cm;
+	text-align: center;
+	justify-content: center;
+  }
+
+
 }
